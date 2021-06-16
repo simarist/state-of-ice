@@ -1,0 +1,7 @@
+added this to ts config
+
+"compilerOptions": {
+    "lib":["dom", "es2017"]
+}
+
+because of this https://github.com/Microsoft/TypeScript/issues/2340
